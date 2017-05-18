@@ -1,5 +1,5 @@
 # Data science algorithms from scratch
-Data science algorithm from scratch implementent during DataRoot trainee program.
+Data science algorithms implemented from scratch during DataRoot trainee program.
 In project was used only **numpy** for matrix manipulation and **sklearn** for comparing results.
 
 **Implemented:**
